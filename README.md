@@ -1,6 +1,10 @@
 <div align="center">
 
-![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Lucas%27s+GitHub+%3C%2F%3E;Backend+Dev+%7C+Python+%7C+Linux)type=waving&color=0:000000,100:222222&height=160&section=header&text=Welcome%20to%20Lucas%27s%20GitHub&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E%20backend%20dev%20%7C%20python%20%7C%20fastapi%20%7C%20linux&descAlignY=62&descSize=13&descColor=888888)
+![banner](./download.jpg)
+
+</div>
+
+![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Lucas%27s+GitHub+%3C%2F%3E;Backend+Dev+%7C+Python+%7C+Linux)
 
 </div>
 
@@ -82,12 +86,5 @@ Building toward a junior backend / DevOps role
 <div align="center">
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=schronsan&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=false&border_color=333333)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-<div align="center">
-
 
 </div>
