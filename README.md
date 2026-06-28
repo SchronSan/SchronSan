@@ -58,8 +58,12 @@
   </samp>
   <br>
   <br>
-  [![Gmail](https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff)](mailto:lucasmoura.dev21@gmail.com)
-  [![Linkedin](https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/lucas-moura-913027210/)
+  <a href="mailto:lucasmoura.dev21@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-755b25?style=for-the-badge&logo=gmail&logoColor=fff" />
+  </a>
+  <a href="https://www.linkedin.com/in/lucas-moura-913027210/">
+    <img src="https://img.shields.io/badge/LinkedIn-755b25?style=for-the-badge&logo=linkedin&logoColor=fff" />
+  </a>
 </div>
 <br>
 </details>
