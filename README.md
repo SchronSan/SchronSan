@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=160&section=header&text=Welcome%20to%20Lucas%27s%20GitHub&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E%20backend%20dev%20%7C%20python%20%7C%20fastapi%20%7C%20linux&descAlignY=62&descSize=13&descColor=888888)
+![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Lucas%27s+GitHub+%3C%2F%3E;Backend+Dev+%7C+Python+%7C+Linux)type=waving&color=0:000000,100:222222&height=160&section=header&text=Welcome%20to%20Lucas%27s%20GitHub&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E%20backend%20dev%20%7C%20python%20%7C%20fastapi%20%7C%20linux&descAlignY=62&descSize=13&descColor=888888)
 
 </div>
 
