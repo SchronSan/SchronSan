@@ -1,80 +1,94 @@
-<br>
-<br>
-<br>
-<div align="center">
-  <!-- Troque o link abaixo pelo seu avatar quando decidir a estética -->
-  <img align="center" height="150" src="https://imgur.com/aXIQLp8.png" />
-</div>
 <div align="center">
 
-  <b>`スクロン`</b>
-  <samp>
-      <br>
-      Hi there! I'm <b>Lucas Moura</b>
-  </samp>
-</div>
-<div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=d4b896&width=900&size=22&center=true&lines=I+am+from+Brazil;Student+of+Analysis+and+Systems+Development;Backend+Developer+in+progress;Python+%7C+FastAPI+%7C+Docker+%7C+SQL" alt="Typing SVG"/>
-</div>
-<br>
-<div align="center">
-  <img src="https://img.shields.io/badge/SchronSan-000000?style=flat-square&logo=github&logoColor=d4b896" />
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:222222&height=160&section=header&text=Welcome%20to%20Lucas%27s%20GitHub&fontSize=28&fontColor=ffffff&fontAlignY=40&desc=%3C%2F%3E%20backend%20dev%20%7C%20python%20%7C%20fastapi%20%7C%20linux&descAlignY=62&descSize=13&descColor=888888)
+
 </div>
 
-<br>
-<br>
+---
 
 <div align="center">
-  <img height=180 align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/?username=SchronSan&show_icons=true&count_private=true&rank_icon=github&theme=dark&icon_color=d4b896&title_color=d4b896&text_color=e8d5b0&bg_color=000000&border_color=d4b896&font=Iosevka"/>
-  <img height=180 align="center" alt="Top Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SchronSan&layout=compact&font=Iosevka&langs_count=16&theme=dark&title_color=d4b896&text_color=e8d5b0&bg_color=000000&border_color=d4b896"/>
-  <br>
-  <br>
-  <img align="center" alt="Profile Details" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SchronSan&theme=github_dark"/>
+
+### 🔗 Connect with me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
+[![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/schronsan)
+[![Dev.to](https://img.shields.io/badge/Dev.to-0a0a0a?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/SEU-DEVTO)
+
 </div>
 
-<div align="center" style="display: inline_block"><br>
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" />
-  <img width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
-</div>
-<br>
-<br>
-<details align="center">
-  <summary>
-      <samp>
-        <b>More Info</b>
-      </samp>
-  </summary>
+---
 
-<br>
+### About me
 
-##
+Hello! I'm **Lucas Moura** — a Backend Developer student focused on building clean, simple, and well-documented systems.
+I value good fundamentals, readable code, and infrastructure that actually works.
 
-<br>
+```
+Backend Developer Student
+Python / FastAPI / Docker
+Linux daily driver · Bash scripting
+Building toward a junior backend / DevOps role
+```
+
+---
+
+### Technologies
+
+**Core**
+
+![Python](https://img.shields.io/badge/Python-0a0a0a?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-0a0a0a?style=flat-square&logo=fastapi&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-0a0a0a?style=flat-square&logo=linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-0a0a0a?style=flat-square&logo=gnubash&logoColor=white)
+
+**Infrastructure & Data**
+
+![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=sqlite&logoColor=white)
+
+**Learning**
+
+![Go](https://img.shields.io/badge/Go_(soon)-333333?style=flat-square&logo=go&logoColor=666666)
+
+---
+
+### Statistics
+
+**Lucas's GitHub Stats**
+
 <div align="center">
-  <samp>
-    <b>
-      Contact me:
-    </b>
-  </samp>
-  <br>
-  <br>
-  <a href="mailto:lucasmoura.dev21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=d4b896" />
-  </a>
-  <a href="https://www.linkedin.com/in/lucas-moura-913027210/">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=d4b896" />
-  </a>
-</div>
-<br>
-</details>
 
-##
-<br>
-<div align="center">
-  <p align="center"><img align="center" src="https://komarev.com/ghpvc/?username=SchronSan&style=flat-square&color=d4b896&labelColor=000000" /></p>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=schronsan&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&icon_color=ffffff&title_color=ffffff&text_color=888&hide_border=false&include_all_commits=true&count_private=true" />
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schronsan&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=ffffff&text_color=888&hide_border=false" />
+
 </div>
-<br>
-<br>
-<br>
+
+---
+
+### 🔥 Contribution Streak
+
+<div align="center">
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=schronsan&theme=dark&background=0d0d0d&border=333333&ring=ffffff&fire=ffffff&currStreakLabel=ffffff&sideLabels=888888&dates=555555&currStreakNum=ffffff&sideNums=ffffff)](https://git.io/streak-stats)
+
+</div>
+
+---
+
+### 📊 Contribution Graph
+
+<div align="center">
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=schronsan&bg_color=0d0d0d&color=ffffff&line=ffffff&point=ffffff&area_color=333333&area=true&hide_border=false&border_color=333333)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+</div>
+
+---
+
+<div align="center">
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:000000&height=80&section=footer)
+
+</div>
