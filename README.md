@@ -89,6 +89,5 @@ Building toward a junior backend / DevOps role
 
 <div align="center">
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:222222,100:000000&height=80&section=footer)
 
 </div>
