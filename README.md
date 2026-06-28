@@ -14,7 +14,7 @@
   </samp>
 </div>
 <div align="center" width="100%">
-  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Backend+Developer+in+progress;Python+%7C+FastAPI+%7C+Docker+%7C+SQL;Be+welcome!" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Iosevka&color=f4cd7c&width=900&size=22&center=true&lines=I+am+from+Brazil;I'm+a+student+of+Analysis+and+Systems+Development;Backend+Developer+in+progress;Python;Be+welcome!" alt="Typing SVG"/>
 </div>
 <br>
 <div align="center">
