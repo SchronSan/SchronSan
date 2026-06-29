@@ -1,12 +1,8 @@
 <div align="center">
-
-![banner](./tes.png)
-
+  <img src="./tes.png" width="100%" />
 </div>
 
 ![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Lucas%27s+GitHub+%3C%2F%3E;Backend+Dev+%7C+Python+%7C+Linux)
-
-</div>
 
 ---
 
@@ -24,15 +20,10 @@
 
 ### About me
 
-Hello! I'm **Lucas Moura** — a Backend Developer student focused on building clean, simple, and well-documented systems.
+Hello! I'm **Lucas Moura** — a Backend Developer student focused on building clean, simple, and well-documented systems.  
 I value good fundamentals, readable code, and infrastructure that actually works.
 
-```
-Backend Developer Student
-Python / FastAPI / Docker
-Linux daily driver · Bash scripting
-Building toward a junior backend / DevOps role
-```
+
 
 ---
 
@@ -65,6 +56,7 @@ Building toward a junior backend / DevOps role
 <div align="center">
 
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=schronsan&show_icons=true&theme=dark&bg_color=0d0d0d&border_color=333&icon_color=ffffff&title_color=ffffff&text_color=888&hide_border=false&include_all_commits=true&count_private=true" />
+
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=schronsan&layout=compact&theme=dark&bg_color=0d0d0d&border_color=333&title_color=ffffff&text_color=888&hide_border=false" />
 
 </div>
