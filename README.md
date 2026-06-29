@@ -2,7 +2,7 @@
   <img src="./tes.png" width="100%" />
 </div>
 
-![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Lucas%27s+GitHub+%3C%2F%3E;Backend+Dev+%7C+Python+%7C+Linux)
+![header](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Welcome+to+Lucas_Moura+GitHub+%3C%2F%3E;Backend+Dev+%7C+Python+%7C+Linux)
 
 ---
 
