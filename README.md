@@ -12,18 +12,15 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0a0a0a?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/SEU-LINKEDIN)
 [![GitHub](https://img.shields.io/badge/GitHub-0a0a0a?style=flat-square&logo=github&logoColor=white)](https://github.com/schronsan)
-[![Dev.to](https://img.shields.io/badge/Dev.to-0a0a0a?style=flat-square&logo=devdotto&logoColor=white)](https://dev.to/SEU-DEVTO)
 
 </div>
 
 ---
-
 ### About me
 
-Hello! I'm **Lucas Moura** — a Backend Developer student focused on building clean, simple, and well-documented systems.  
-I value good fundamentals, readable code, and infrastructure that actually works.
+Hello! I'm **Lucas Moura**, a Backend Developer student who enjoys building things and understanding how they work.
 
-
+I'm focused on improving my fundamentals, writing clean code, and creating simple solutions that actually solve problems.
 
 ---
 
@@ -38,7 +35,6 @@ I value good fundamentals, readable code, and infrastructure that actually works
 
 **Infrastructure & Data**
 
-![Docker](https://img.shields.io/badge/Docker-0a0a0a?style=flat-square&logo=docker&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0a0a0a?style=flat-square&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-0a0a0a?style=flat-square&logo=git&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-0a0a0a?style=flat-square&logo=sqlite&logoColor=white)
