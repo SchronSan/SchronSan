@@ -16,7 +16,13 @@
 </div>
 
 ---
+
 ### About me
+
+<div align="center">
+  <img src="./brain.png" width="200" align="right" />
+</div>
+
 
 Hello! I'm **Lucas Moura**, a Backend Developer student who enjoys building things and understanding how they work.
 
@@ -25,6 +31,12 @@ I'm focused on improving my fundamentals, writing clean code, and creating simpl
 ---
 
 ### Technologies
+
+<div align="center">
+  <img src="./com.png" width="200" align="right" />
+</div>
+
+
 
 **Core**
 
